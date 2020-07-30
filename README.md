@@ -1,3 +1,3 @@
-# Group Project 1
+# Data Visualisation - Group Project 
 
-To be updated later. 
+We have an awsome group  
