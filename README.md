@@ -1,12 +1,12 @@
 ### Topic: Analysis of Movie Box Office Data
 
-<u>Team</u>:
-Nicole Cook
-Hermela Mekonnen
-Rob Savage
-Franklin Troung
+**Team:**
+* Nicole Cook
+* Hermela Mekonnen
+* Rob Savage
+* Franklin Troung
 
-<u>Tasks</>:
+**Tasks:**
 * Pulling original data requests and merging data: Rob
 * Cleaning data sets: Franklin
 * Create DataFrame with cleaned data set & downloading to csv: Rob/Franklin
@@ -34,3 +34,5 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 * Look for a good starting point in the data based on having enough sample data for each year.
 * Bucket the data by decade.
 * How do we account for multiple genres in the data?
+
+
