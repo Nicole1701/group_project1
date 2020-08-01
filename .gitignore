@@ -133,3 +133,7 @@ dmypy.json
 
 # Block project API Key Config file
 config.py
+
+# Block original data sources
+boxoffice.csv
+imdb_movies.csv
