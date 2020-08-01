@@ -1,5 +1,3 @@
-# Group Project 1
-
 ### Topic: Analysis of Movie Box Office Data in the US
 
 ### Possible Questions to Answer
@@ -23,4 +21,3 @@
 
 ## Next Steps
 * Find which specific data sets we can use and what kinds of data we can analyze.
-
