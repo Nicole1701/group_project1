@@ -1,6 +1,21 @@
-### Topic: Analysis of Movie Box Office Data in the US
+### Topic: Analysis of Movie Box Office Data
 
-### Possible Questions to Answer
+<u>Team</u>:
+Nicole Cook
+Hermela Mekonnen
+Rob Savage
+Franklin Troung
+
+<u>Tasks</>:
+* Pulling original data requests and merging data: Rob
+* Cleaning data sets: Franklin
+* Create DataFrame with cleaned data set & downloading to csv: Rob/Franklin
+* Analyze cleaned data set for any additional analysis: Team
+* Create 6-8 visualizations of data and save as PNG files: Nicole & Hermela
+* Create PowerPoint: Team
+* Presentation: Rob (main), Team
+
+### Questions to Answer
 * How many movies of a certain genre were released per year?
 * Do popular genres change over time?
 * Is there any financial impact based on a movies rating?
@@ -8,16 +23,14 @@
 * Impact of seasonlity on box office revenue/popularity
 
 
-### Possible Data Sources
-* Movies released by year (look on kaggle)
-* Netflix/IMDB data
-* Box office financial data (need to find a source for this)
+### Data Sources
+* IMDb movies extensive dataset: 
+https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+* Box Office Mojo: https://data.world/eliasdabbas/boxofficemojo-alltime-domestic-data
 
 
 ### Other things to take into consideration
-* How to account for inflation if not already done in data set 
-* How far back in time did we want to go? Did we want to bucket data at all?
-
-
-## Next Steps
-* Find which specific data sets we can use and what kinds of data we can analyze.
+* Need to account for inflation
+* Look for a good starting point in the data based on having enough sample data for each year.
+* Bucket the data by decade.
+* How do we account for multiple genres in the data?
