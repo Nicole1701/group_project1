@@ -40,18 +40,6 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 # Data Analysis
 
 
-## Average Revenue Over Time
-
-* Insert analysis here
-
-## Rating Impact on Average Revenue
-
-* Insert analysis here
-
-## Impact of Duration on Revenue
-
-* Insert analysis here
-
 ## Popular Genres Over Time
 
 * There is not a lot of variation in the top genre's released over time. Drama  and Comedy have been the top two genres for the last 50 years. There is a little variation in the rest of the top 5, they have included Action, Romance, Crime, Thriller and Adventure (see Genre % Table)
@@ -68,14 +56,26 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 ## Impact of Seasonality on Average Revenue/Ratings/Duration
 
-* Movies released in winter tend to be higher rated than any other season, while movies released in summer tend to be lower rated. 
+* Movies released in winter tend to be higher rated than any other season, while movies released in summer tend to be lower rated. Much of this may be attributed to the high profile action movies that are usually released during this time frame. While full of great CGI and visuals, storylines generally fall by the wayside.  
 
 ![Average Rating of Movies by Season](images/Rating_by_Season.png)
 
-* Movies released in summer bring in the most revenue overall, while autumn tends to bring in the lowest revenue.
+* Movies released in summer bring in the most revenue overall, while autumn tends to bring in the lowest revenue. Summer is generally viewed as the peak time to release highly anticipated movies since families have the most amount of free time during this section of the year. This may explain why the revenue figures are so high.
 
 Revenue_by_Season
 
 * Movies released in the winter have longer run times than those released any other time of year. 
 
 ![Average Movie Duration by Season](images/Duration_by_Season.png)
+
+## Average Revenue Over Time
+
+* Insert analysis here
+
+## Rating Impact on Average Revenue
+
+* Insert analysis here
+
+## Impact of Duration on Revenue
+
+* Insert analysis here
