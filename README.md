@@ -54,8 +54,15 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 ## Popular Genres Over Time
 
-* Insert analysis here
+* There is not a lot of variation in the top genre's released over time. Drama  and Comedy have been the top two genres for the last 50 years. There is a little variation in the rest of the top 5, they have included Action, Romance, Thriller, Crime and Adventure.
 
+* Dramas make up about 23% of movies released each decade, while comedies make up about 17% of movies released each year.
+![Popular Genre's Over Time](images/Percentage_Genre_Over_Time.png)
+
+* But the most popular genres don't necessarily translate into ratings. Taking into account movie genres that released at least 30 movies in a decade, biography, history and Animation tend to be rated highest (see Ratings Table)
+
+* Looking at the most popular genres over time, their overall ratings tend to be rather consistent, except for the 1970's where movies tended to be rated higher all over. 
+![Rating of Popular Genre's Over Time](images/Rating_by_Genre_Over_Time.png)
 
 ## Impact of Seasonality on Average Revenue/Ratings
 
