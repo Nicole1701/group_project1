@@ -17,13 +17,13 @@
 * Presentation: Team
 
 
-### Questions to Answer
-* When adjusted for inflation, is there a variation in average revenue over time? 
-* Do movies that are rated higher generate more income?
-* Does seasonality have any impact on average revenue/ratings?
-* Does runtime have any financial impact?
-* What percentage of certain genres were released per decade? 
+### Questions of Importance
 * Do popular genres change over time?
+* Does the audience’s taste for genre change over time?
+* Do seasons have an effect on the metrics of a movie?
+* Do seasons impact runtime and audience ratings?
+* Has movie revenue (adjusted for inflation) fluctuated through the decades?
+* Does duration  have any impact on the financial success of a movie?
 
 
 ### Data Sources
