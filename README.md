@@ -68,9 +68,11 @@ Revenue_by_Season
 
 ![Average Movie Duration by Season](images/Duration_by_Season.png)
 
-## Average Revenue Over Time
+## Average Revenue by Decade
 
-* Insert analysis here
+* Using data from 1980-present, there wasn't much of any significant data to report on until the 2010's. Much of revenue which was adjusted for inflation remained close to in proximity until there was an abrupt 20% decline in revenue from 2010-2019. The general assumption is that the way in which the public ingested movies changed during that time period. Netflix launched their streaming service in 2007, but didn't really start to gain significant momentum until 2010.  
+
+![Average Revenue By Decade](images/Revenue_by_Decade.png)
 
 ## Rating Impact on Average Revenue
 
