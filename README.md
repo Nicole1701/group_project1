@@ -74,10 +74,11 @@ Revenue_by_Season
 
 ![Average Revenue By Decade](images/Revenue_by_Decade.png)
 
-## Rating Impact on Average Revenue
-
-* Insert analysis here
 
 ## Impact of Duration on Revenue
 
-* Insert analysis here
+* There was an innate curiousity surrounding movie run time and the resulting revenue. With the attention span of today's audience dwindling due to instant gratification, there was an idea that the longer a movie ran, the less money it would make. There are a few blockbuster movies that come to mind that run over 3 hours long that have done well, but we were curious to see if there were any other outliers. 
+
+* There were no significant correlations with movie run time and gross revenue. The bulk of movies stayed within the 2.5 hour threshold and performed similarly. Outside of a handful of outliers, nothing interesting.
+
+![Movie Duration vs. Revenue](images/Duration_vs_financials.png)
