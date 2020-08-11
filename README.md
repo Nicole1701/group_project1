@@ -11,7 +11,7 @@
 * Pulling original data requests and merging data: Rob
 * Cleaning data sets: Rob/Franklin
 * Create DataFrame with cleaned data set & downloading to csv: Rob/Franklin
-* Create 6-8 visualizations of data and save as PNG files: Nicole, Hermela, Franklin
+* Create visualizations of data and save as PNG files: Nicole, Hermela, Franklin
 * Analyze cleaned data set for any additional analysis: Team
 * Create PowerPoint Presentation: Rob
 * Presentation: Team
@@ -42,15 +42,15 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 ## Popular Genres Over Time
 
-* There is not a lot of variation in the top genre's released over time. Drama  and Comedy have been the top two genres for the last 50 years. There is a little variation in the rest of the top 5, they have included Action, Romance, Crime, Thriller and Adventure (see Genre % Table)
+* There is not a lot of variation in the top genre's released over time. Drama and Comedy have been the top two genres for the last 50 years. There is a little variation in the rest of the top 5, but they have included Action, Romance, Crime, Thriller and Adventure.
 
 * Dramas make up about 23% of movies released each decade, while comedies make up about 17% of movies released each year.
 
 ![Popular Genre's Over Time](images/Percentage_Genre_Over_Time.png)
 
-* But the most popular genres don't necessarily translate into ratings. The highest rated movies of the last 50 years are biography, history and Animation tend to be rated highest (see Ratings Table)
+* But the most popular genres don't necessarily translate into ratings. The highest rated movies of the last 50 years are biography, history and animation.
 
-* Looking at the most popular genres over time, their overall ratings tend to be rather consistent, except for the 1970's where movies tended to be rated higher all over. 
+* Looking at the most popular genres over time, their overall ratings tend to be rather consistent, except for the 1970's where movies tended to be rated higher over all. 
 
 ![Rating of Popular Genre's Over Time](images/Rating_by_Genre_Over_Time.png)
 
