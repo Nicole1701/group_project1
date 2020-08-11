@@ -1,4 +1,4 @@
-### Topic: Analysis of Movie Box Office Data
+### Topic: Analysis of Movie Box Office Data Changes Over Time
 
 **Team:**
 * Nicole Cook
