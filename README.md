@@ -80,3 +80,25 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 * There were no significant correlations with movie run time and gross revenue. The bulk of movies stayed within the 2.5 hour threshold and performed similarly. Outside of a handful of outliers, nothing interesting.
 
 ![Movie Duration vs. Revenue](images/Duration_vs_financials.png)
+
+## Conclusions: Things to Ponder
+
+**Genres over Time**
+* Not much variation in film genres over the last 50 years. Dramas and Comedies dominate that time frame with 40% of films over that period.
+
+**Biographies**
+* Biographies churned out the highest ratings, but weren’t players at the box office. 
+
+**Golden Era**
+* Movies have come a long way, but according to audience ratings the 70’s serve as the pinnacle of filmmaking.
+
+**$$$ vs. Critical Acclaim**
+* Summer blockbusters proved to be hits at the box office, but not in the hearts of critics.
+
+**Sign of things to come?**
+* The 2010’s saw a major hit in box office revenue. With at-home viewing becoming the new norm, how will this affect films moving forward?
+
+**Duration vs. Revenue**
+* No significant correlations were found between movie durations and the financial success of a film. 
+
+
