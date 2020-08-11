@@ -62,8 +62,6 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 * Movies released in summer bring in the most revenue overall, while autumn tends to bring in the lowest revenue. Summer is generally viewed as the peak time to release highly anticipated movies since families have the most amount of free time during this section of the year. This may explain why the revenue figures are so high.
 
-Revenue_by_Season
-
 * Movies released in the winter have longer run times than those released any other time of year. 
 
 ![Average Movie Duration by Season](images/Duration_by_Season.png)
