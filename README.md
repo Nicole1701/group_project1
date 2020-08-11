@@ -10,9 +10,9 @@
 **Tasks:**
 * Pulling original data requests and merging data: Rob
 * Cleaning data sets: Rob/Franklin
-* Create DataFrame with cleaned data set & downloading to csv: Rob/Franklin
+* Create DataFrame with cleaned data set & output to csv: Rob/Franklin
 * Create visualizations of data and save as PNG files: Nicole, Hermela, Franklin
-* Analyze cleaned data set for any additional analysis: Team
+* Analyze cleaned data for any additional analysis: Team
 * Create PowerPoint Presentation: Rob
 * Presentation: Team
 
